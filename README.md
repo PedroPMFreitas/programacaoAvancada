@@ -6,3 +6,4 @@ Aluno: Pedro Paulo Moreira de Freitas
 |---|---|---|---|
 | 1 | 25/09, 22:50 | [Trabalho 1](https://github.com/PedroPMFreitas/programacaoAvancada/tree/main/Trabalho1) | Sim |
 | 2 | 05/10, 22:03 | [Trabalho 2](https://github.com/PedroPMFreitas/programacaoAvancada/tree/main/Trabalho2) | Sim |
+| 3 | 18/10, 18:28 | [Trabalho 3](https://github.com/PedroPMFreitas/programacaoAvancada/tree/main/Trabalho3) | Sim |
