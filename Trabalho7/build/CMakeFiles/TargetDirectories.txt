@@ -1,0 +1,3 @@
+/home/pedro/faculdade/programacaoAvancada/Trabalho6/build/CMakeFiles/Trabalho6.dir
+/home/pedro/faculdade/programacaoAvancada/Trabalho6/build/CMakeFiles/edit_cache.dir
+/home/pedro/faculdade/programacaoAvancada/Trabalho6/build/CMakeFiles/rebuild_cache.dir
