@@ -10,4 +10,4 @@ Aluno: Pedro Paulo Moreira de Freitas
 | 4 | 26/10, 17:35 | [Trabalho 4](https://github.com/PedroPMFreitas/programacaoAvancada/tree/main/Trabalho4) | Sim |
 | 5 | 12/11, 00:02 | [Trabalho 5](https://github.com/PedroPMFreitas/programacaoAvancada/tree/main/Trabalho5) | Sim |
 | 6 | 18/11, 22:59 | [Trabalho 6](https://github.com/PedroPMFreitas/programacaoAvancada/tree/main/Trabalho6) | Sim |
-| 7 | 25/11, 23:26 | [Trabalho 7](https://github.com/PedroPMFreitas/programacaoAvancada/tree/main/Trabalho7) | Sim |
+| 7 | 25/11, 23:26 | [Trabalho 7](https://github.com/PedroPMFreitas/programacaoAvancada/tree/main/Trabalho7) | Não |
