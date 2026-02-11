@@ -1,0 +1,3 @@
+/home/pedro/tec2/Trabalho11/programacaoAvancada/Trabalho9/build/CMakeFiles/Trabalho9.dir
+/home/pedro/tec2/Trabalho11/programacaoAvancada/Trabalho9/build/CMakeFiles/edit_cache.dir
+/home/pedro/tec2/Trabalho11/programacaoAvancada/Trabalho9/build/CMakeFiles/rebuild_cache.dir
